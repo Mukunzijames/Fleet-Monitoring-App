@@ -20,6 +20,9 @@ A Flutter application for monitoring and tracking vehicles in real-time on a map
 
 ### Getting Started
 
+<img width="329" alt="Screenshot 2025-05-21 at 01 01 08" src="https://github.com/user-attachments/assets/55e46957-5c28-4ac5-9981-50aa72977357" />
+
+
 1. Clone the repository:
    ```
    git clone <repository-url>
